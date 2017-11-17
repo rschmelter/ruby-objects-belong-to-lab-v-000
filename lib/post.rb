@@ -7,5 +7,5 @@ end
 end
 
 hillary = author.new("Hillary")
-post - post.new(post)
+post = post.new(post)
 post.author = hillary
