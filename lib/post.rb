@@ -6,6 +6,6 @@ end
 
 end
 
-hillary = author.new
-post = post.new(new_post)
+hillary = Author.new
+post = Post.new(new_post)
 post.author = hillary
